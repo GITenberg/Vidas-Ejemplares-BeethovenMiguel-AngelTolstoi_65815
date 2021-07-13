@@ -1,0 +1,28 @@
+_repo: Vidas-Ejemplares-BeethovenMiguel-AngelTolstoi_65815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2021-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65815'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vidas Ejemplares
+
+  Beethoven—Miguel Angel—Tolstoi'
+url: http://www.gutenberg.org/ebooks/65815
