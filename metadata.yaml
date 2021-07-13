@@ -1,5 +1,8 @@
 _repo: Vidas-Ejemplares-BeethovenMiguel-AngelTolstoi_65815
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65815-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Romain_Rolland
     - https://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65815#Vidas-Ejemplares-BeethovenMiguel-AngelTolstoi
 gutenberg_issued: '2021-07-10'
 gutenberg_type: Text
 identifiers:
